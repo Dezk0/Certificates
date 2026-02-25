@@ -1,6 +1,7 @@
 # 📜 Certificates
 
 This repository contains my professional certifications related to **Cybersecurity and Software Development**.
+These certifications reflect my continuous learning in technology and security.
 
 ---
 
@@ -20,6 +21,6 @@ This repository contains my professional certifications related to **Cybersecuri
 
 ## 📂 Files
 
-- [I2CSUpdate20260225-30-32u8z2.pdf](https://github.com/user-attachments/files/25540384/I2CSUpdate20260225-30-32u8z2.pdf)
+- [Cisco_Introduction_to_Cybersecurity.pdf](https://github.com/user-attachments/files/25540384/I2CSUpdate20260225-30-32u8z2.pdf)
 
 ---
